@@ -54,15 +54,15 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile(fileName, data) {
+// function writeToFile(fileName, data) {
+function writeToFile(data) {
     // writes to a file in the folder path, also has handling for errors
-    fs.writeFile(path + "/" + fileName, generateMarkdown(data), (err) => err ? console.log(err) : console.log('success'))
+    fs.writeFile("README.md", generateMarkdown(data), (err) => err ? console.log(err) : console.log('success'))
 }
 
 // function to initialize program
 function init() {
-    inquirer.prompt(questions);
-    writeToFile();
+    inquirer.prompt(questions).then((data) => writeToFile(data));
 }
 
 // function call to initialize program
