@@ -12,18 +12,8 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Enter the sections-entitled: ',
-        name: 'section'
-    },
-    {
-        type: 'input',
         message: 'Enter a description of your project: ',
         name: 'description'
-    },
-    {
-        type: 'input',
-        message: 'Enter a table of contents you wish to create: ',
-        name: 'table'
     },
     {
         type: 'input',
