@@ -1,4 +1,5 @@
 # Readme Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   </br>
   
@@ -16,7 +17,7 @@
 
   ## Description
 
-  A command-line application that dynamically generates a professional readme.md file from a user's input
+  Yayaya
 
   </br>
 
@@ -24,20 +25,20 @@
 
   To install this application, please follow the steps below:
   ```
-  N/A
+  Nanana
   ```
 
   </br>
 
   ## Usage
 
-  N/A
+  Lululu
 
   </br>
 
   ## License
 
-  Licensed under the MIT License License. See LICENSE for the full details. 
+  Licensed under the MIT License License. Click the license's badge for the full details. 
 
   </br>
 
@@ -45,13 +46,13 @@
 
   Please take a look at our contributing guidelines below if you're interested in helping!
 
-  YueHuaHua
+  Fufufu
 
   </br>
 
   ## Tests
 
-  N/A
+  Mamama
 
   ## Questions
 
