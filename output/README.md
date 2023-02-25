@@ -32,7 +32,7 @@
 
   ## Usage
 
-  `npm start` to start the application
+  `npm start` to initiate the application
 
   </br>
 
