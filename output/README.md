@@ -1,4 +1,4 @@
-# Readme Generator
+# README Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   </br>
@@ -25,14 +25,14 @@
 
   To install this application, please follow the steps below:
   ```
-  npm install
+  `npm install` to install the package
   ```
 
   </br>
 
   ## Usage
 
-  `npm start` to initiate the application
+  `npm start` to start the application
 
   </br>
 
@@ -46,7 +46,7 @@
 
   Please take a look at our contributing guidelines below if you're interested in helping!
 
-  Clone the repository, contribute and create a pull request to get reviewed
+  clone the repo, modify/contribute and create a pull request to be reviewed
 
   </br>
 
