@@ -1,5 +1,5 @@
-# Readme Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# nana
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   </br>
   
@@ -17,7 +17,7 @@
 
   ## Description
 
-  Yayaya
+  nini
 
   </br>
 
@@ -25,20 +25,20 @@
 
   To install this application, please follow the steps below:
   ```
-  Nanana
+  nunu
   ```
 
   </br>
 
   ## Usage
 
-  Lululu
+  nene
 
   </br>
 
   ## License
 
-  Licensed under the MIT License License. Click the license's badge for the full details. 
+  Licensed under the Apache License 2.0 License. Click the license's badge for the full details. 
 
   </br>
 
@@ -46,19 +46,19 @@
 
   Please take a look at our contributing guidelines below if you're interested in helping!
 
-  Fufufu
+  nini
 
   </br>
 
   ## Tests
 
-  Mamama
+  nono
 
   ## Questions
 
-  If you have any questions regarding this application, feel free to send me an email at [bulanarum@gmail.com](mailto:bulanarum@gmail.com).
+  If you have any questions regarding this application, feel free to send me an email at [kiki](mailto:kiki).
 
   </br>
 
-  Created by [YueHuaHua](https://github.com/YueHuaHua).
+  Created by [lala](https://github.com/lala).
   
