@@ -56,7 +56,7 @@ const questions = [
 // function to write README file
 function writeToFile(fileName, data) {
     // writes to a file in the folder path, also has handling for errors
-    return fs.writeFile(path.join(process.cwd(), fileName), generateMarkdown(data), (err) => err ? console.log(err) : console.log('README file has been created ...'))
+    return fs.writeFile(path.relative(process.cwd(), "./output/" + fileName), generateMarkdown(data), (err) => err ? console.log(err) : console.log('README file has been created ...'))
 }
 
 // function to initialize program
