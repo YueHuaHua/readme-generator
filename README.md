@@ -29,16 +29,16 @@ To install the needed packages, run the following command in the application: `n
 
 ## Usage
 
-Download the file from repo to your machine. Go into the file directory in the terminal and start the application by typing `npm start` command. Answer each question required to create the README, and your file will be generated in the `output` folder on your machine. Watch this 📽 [video](assets/images/file.mov) to see the demo.
+Download the file from repo to your machine. Go into the file directory in the terminal and start the application by typing `npm start` command. Answer each question required to create the README, and your file will be generated in the `output` folder on your machine. Watch this 📽 [video](assets/img/demo-video.mp4) to see the demo or click [here](https://www.dropbox.com/s/cao2lbqjvidteud/demo-video.mp4?dl=0) to download.
 
 1. `npm install` to download the required packages.
-![Usage Step 1](./assets/readme-01-step-1.JPG)
+![Usage Step 1](./assets/img/readme-01-step-1.JPG)
 2. `npm start` to initiate the application.
-![Usage Step 2](./assets/readme-02-step-2.JPG)
+![Usage Step 2](./assets/img/readme-02-step-2.JPG)
 3. Answer prompts in the terminal
-![Usage Step 3](./assets/readme-03-step-3.JPG)
+![Usage Step 3](./assets/img/readme-03-step-3.JPG)
 4. Check the freshly generated `README.md` file in the `output` folder. Click [here](./output/README.md) to check the result.
-![Usage Step 4](./assets/readme-04-step-4.JPG)
+![Usage Step 4](./assets/img/readme-04-step-4.JPG)
 
 </br>
 
