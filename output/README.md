@@ -1,5 +1,5 @@
-# New Readme Generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Readme Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   </br>
   
@@ -17,7 +17,7 @@
 
   ## Description
 
-  lala
+  a command-line application that dynamically generates a professional README.md file from a user’s input
 
   </br>
 
@@ -25,20 +25,20 @@
 
   To install this application, please follow the steps below:
   ```
-  nini
+  npm install
   ```
 
   </br>
 
   ## Usage
 
-  fufu
+  `npm start` to initiate the application
 
   </br>
 
   ## License
 
-  Licensed under the Apache License 2.0 License. Click the license's badge for the full details. 
+  Licensed under the MIT License License. Click the license's badge for the full details. 
 
   </br>
 
@@ -46,19 +46,19 @@
 
   Please take a look at our contributing guidelines below if you're interested in helping!
 
-  gna
+  Clone the repository, contribute and create a pull request to get reviewed
 
   </br>
 
   ## Tests
 
-  mama
+  `npm test` to test the application
 
   ## Questions
 
-  If you have any questions regarding this application, feel free to send me an email at [adf](mailto:adf).
+  If you have any questions regarding this application, feel free to send me an email at [bulanarum@gmail.com](mailto:bulanarum@gmail.com).
 
   </br>
 
-  Created by [dafad](https://github.com/dafad).
+  Created by [YueHuaHua](https://github.com/YueHuaHua).
   

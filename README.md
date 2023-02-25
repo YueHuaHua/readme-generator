@@ -1,64 +1,70 @@
-# nana
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# README Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  </br>
+</br>
   
-  ## Table of Contents
+## Table of Contents
 
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  </br>
+</br>
 
-  ## Description
+## Description
 
-  nini
+This application is a command-line application that dynamically generates a professional README.md file from a user’s input by using JavaScript, Node, and the Inquirer package. This README was created with the application!
 
-  </br>
+</br>
 
-  ## Installation
+## Installation
 
-  To install this application, please follow the steps below:
-  ```
-  nunu
-  ```
+To install the needed packages, run the following command in the application: `npm install`
 
-  </br>
+</br>
 
-  ## Usage
+## Usage
 
-  nene
+Download the file from repo to your machine. Go into the file directory in the terminal and start the application by typing `npm start` command. Answer each question required to create the README, and your file will be generated in the `output` folder on your machine. Watch this 📽 [video](assets/images/file.mov) to see the demo.
 
-  </br>
+1. `npm install` to download the required packages.
+![Usage Step 1](./assets/readme-01-step-1.JPG)
+2. `npm start` to initiate the application.
+![Usage Step 2](./assets/readme-02-step-2.JPG)
+3. Answer prompts in the terminal
+![Usage Step 3](./assets/readme-03-step-3.JPG)
+4. Check the freshly generated `README.md` file in the `output` folder. Click [here](./output/README.md) to check the result.
+![Usage Step 4](./assets/readme-04-step-4.JPG)
 
-  ## License
+</br>
 
-  Licensed under the Apache License 2.0 License. Click the license's badge for the full details. 
+## License
 
-  </br>
+Licensed under the MIT License. Click the license's badge for the full details. 
 
-  ## Contributing
+</br>
 
-  Please take a look at our contributing guidelines below if you're interested in helping!
+## Contributing
 
-  nini
+Please take a look at our contributing guidelines below if you're interested in helping!
 
-  </br>
+1. Clone the project onto your machine
+2. Contribute and make a pull request to be reviewed.
 
-  ## Tests
+</br>
 
-  nono
+## Tests
 
-  ## Questions
+N/A
 
-  If you have any questions regarding this application, feel free to send me an email at [kiki](mailto:kiki).
+## Questions
 
-  </br>
+If you have any questions regarding this application, feel free to send me an email at [bulanarum@gmail.com](mailto:bulanarum@gmail.com).
 
-  Created by [lala](https://github.com/lala).
-  
+</br>
+
+Created by [YueHuaHua](https://github.com/YueHuaHua).
